@@ -1,0 +1,15 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+sqlalchemy>=1.4.23
+aiosqlite>=0.17.0
+python-multipart>=0.0.5
+pillow>=8.3.1
+pydantic>=1.8.2
+python-jose>=3.3.0
+passlib>=1.7.4
+python-dotenv>=0.19.0
+
+# 测试依赖
+pytest>=7.0.0
+httpx>=0.24.0
+pytest-asyncio>=0.23.0 
