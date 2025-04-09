@@ -1,17 +1,125 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1269" dy="1169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="553" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fTVVWWVrXxYGvLeLrb6v-96" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Research Challenge&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- Computational Challenge: Western frameworks create bias against Eastern traditions&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- Cultural Risk: Inappropriate models threaten the cultural authenticity&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- Research Goal: Develop a culturally adaptive computational framework&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="39" y="900" width="481" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="fTVVWWVrXxYGvLeLrb6v-98" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="50" width="60" height="30" as="geometry" />
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-99" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Chinese Painting Database&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="214" y="20" width="398" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fTVVWWVrXxYGvLeLrb6v-99" value="Chinese Painting Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="258" y="30" width="310" height="30" as="geometry" />
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTVVWWVrXxYGvLeLrb6v-127" target="fTVVWWVrXxYGvLeLrb6v-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-127" value="Layer 1:&lt;br&gt;&lt;br&gt;Knowledge System" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="170" width="140.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTVVWWVrXxYGvLeLrb6v-128" target="fTVVWWVrXxYGvLeLrb6v-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-128" value="Layer 2:&lt;br&gt;&lt;br&gt;Knowledge Acquisition" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="410" y="220" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTVVWWVrXxYGvLeLrb6v-130" target="fTVVWWVrXxYGvLeLrb6v-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-130" value="Layer 3:&lt;br&gt;&lt;br&gt;Application Services" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTVVWWVrXxYGvLeLrb6v-132" target="fTVVWWVrXxYGvLeLrb6v-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-132" value="Layer 4:&lt;br&gt;&lt;br&gt;Decision Support" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="370" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-134" value="Layer 5:&lt;br&gt;&lt;br&gt;Userr Domains" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-136" value="East-West Theory Mapping - Six Principles to Computational Tasks" style="shape=table;startSize=40;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="430" width="510" height="261" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-137" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-136">
+          <mxGeometry y="40" width="510" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-138" value="Spirit Resonance" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-137">
+          <mxGeometry width="255" height="37" as="geometry">
+            <mxRectangle width="255" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-139" value="Style Recognition" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-137">
+          <mxGeometry x="255" width="255" height="37" as="geometry">
+            <mxRectangle width="255" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-141" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-136">
+          <mxGeometry y="77" width="510" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-142" value="Bone Method" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-141">
+          <mxGeometry width="255" height="36" as="geometry">
+            <mxRectangle width="255" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-143" value="Line Feature Analysis" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-141">
+          <mxGeometry x="255" width="255" height="36" as="geometry">
+            <mxRectangle width="255" height="36" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-145" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-136">
+          <mxGeometry y="113" width="510" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-146" value="Correspondence to Object" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-145">
+          <mxGeometry width="255" height="37" as="geometry">
+            <mxRectangle width="255" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-147" value="Object Recognition" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-145">
+          <mxGeometry x="255" width="255" height="37" as="geometry">
+            <mxRectangle width="255" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-149" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-136">
+          <mxGeometry y="150" width="510" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-150" value="Suitability to Type" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-149">
+          <mxGeometry width="255" height="37" as="geometry">
+            <mxRectangle width="255" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-151" value="Color Analysis" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-149">
+          <mxGeometry x="255" width="255" height="37" as="geometry">
+            <mxRectangle width="255" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-152" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-136">
+          <mxGeometry y="187" width="510" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-153" value="Division and Planning" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-152">
+          <mxGeometry width="255" height="37" as="geometry">
+            <mxRectangle width="255" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-154" value="Composition Analysis" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-152">
+          <mxGeometry x="255" width="255" height="37" as="geometry">
+            <mxRectangle width="255" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-155" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-136">
+          <mxGeometry y="224" width="510" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-156" value="Transmission by Copying" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-155">
+          <mxGeometry width="255" height="37" as="geometry">
+            <mxRectangle width="255" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-157" value="Style Transfer" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="fTVVWWVrXxYGvLeLrb6v-155">
+          <mxGeometry x="255" width="255" height="37" as="geometry">
+            <mxRectangle width="255" height="37" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTVVWWVrXxYGvLeLrb6v-160" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Research Challenge&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- Computational Challenge: Western frameworks create bias against Eastern traditions&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- Cultural Risk: Inappropriate models threaten the cultural authenticity&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;- Research Goal: Develop a culturally adaptive computational framework&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="30" y="700" width="481" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
